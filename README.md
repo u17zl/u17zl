@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**u17zl/u17zl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Kaiwen(Kevin) Luo, a tech-savvy full-stack developer
 
-Here are some ideas to get you started:
+### Skills 🔧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Javascript`, `Ruby`, `PHP`, `Dart`, `Python`,  
+`React.js`, `Express.js`, `Ruby on Rails`, `Laravel`, `Flutter`
+
+### Stats 📈
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=u17zl&count_private=true&show_icons=true&hide=prs)](https://github.com/u17zl/github-readme-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u17zl&layout=compact&hide=css,html)](https://github.com/u17zl/github-readme-stats)
+
