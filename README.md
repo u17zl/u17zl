@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Kaiwen(Kevin) Luo, a tech-savvy full-stack developer
+I am Kaiwen(Kevin) Luo, a tech-savvy full-stack developer with nearly 3 years of hands-on experience in designing, developing and implementing modern web applications, hybrid Apps based on cloud infrastructures.
 
 ### Skills 🔧
 
